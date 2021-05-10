@@ -1,7 +1,7 @@
 # Tableau-Projects
 Projects done in my free time
 
-##TASK
+## RAZOR CASE STUDY
 
 Analyze the dataset below using Tableau and present your insights (all data sanity should be done on Tableau or Tableau prep- feel free to use custom SQL as needed). Please do not do any manual data cleaning (only formula-based sanitization) , and do not use excel for this exercise, only use Tableau and SQL.
 This is a sample dataset of publicly available info on ecommerce sellers in the Garden category in the Amazon marketplace.
